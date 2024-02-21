@@ -1,0 +1,15 @@
+﻿Deliverable 1 
+Team 5
+
+
+10 necessary UI components of Robo-Advisors 
+1. Dashboard (Main Interface)
+2. Surveys (To collect & analyze user data)
+3. Customer support (live chat, emails)
+4. Portfolio
+5. Performance analysis
+6. Performance analysis
+7. Authentication mechanisms
+8. Account management
+9. Risk assessment
+10. Account details
