@@ -1,0 +1,31 @@
+body {
+    font-family: Georgia;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  h1 {
+    align-items: center;
+    color: red;
+    justify-content: center;
+    display: flex;
+  }
+
+  input {
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 8px 16px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
